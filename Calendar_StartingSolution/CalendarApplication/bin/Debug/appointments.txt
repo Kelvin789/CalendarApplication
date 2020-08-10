@@ -1,0 +1,22 @@
+08/04/2017 11:30:00	Subject: Tutorial, Location: Room 6, Frequency: Fortnightly, Amount: 2	30	Fortnightly	2
+08/04/2017 12:00:00	Subject: Review, Location: OLC, Frequency: Monthly, Amount: 2	30	Monthly	2
+08/04/2017 12:30:00	Subject: Exam, Location: Room 2, Frequency: Yearly, Amount: 3	120	Yearly	3
+01/04/2017 11:00:00	Subject: April Fools event, Location: Church	60
+02/04/2017 10:00:00	Subject: Sunday mass, Location: Local Parish, Frequency: Weekly, Amount: 365	30	Weekly	365
+13/04/2017 21:00:00	Subject: Programming 2 deadline checkup, Location: My Office	30
+10/04/2017 21:00:00	Subject: Dinner, Location: Late night	570
+10/04/2017 10:00:00	Subject: Recurring test, Location: freq, Frequency: Weekly, Amount: 5	60	Weekly	5
+11/04/2017 20:00:00	Subject: League, Location: Night time	30
+11/04/2017 14:00:00	Subject: dsfsd, Location: sdfsd	60
+11/04/2017 13:00:00	Subject: sntg, Location: sdghjk	30
+08/04/2017 16:00:00	Subject:  Football, Location:  Field	60
+11/04/2017 01:00:00	Subject:  q, Location:  q, Frequency: Daily, Amount: 4	30	Daily	4
+18/04/2017 15:00:00	Subject:  wekthkw, Location:  kdsf, Frequency: Weekly, Amount: 5	60	Weekly	5
+11/04/2017 00:00:00	Subject: s, Location: s, Frequency: Weekly, Amount: 1	30	Weekly	1
+11/04/2017 07:00:00	Subject: Changed, Location: Entry	120
+12/04/2017 10:00:00	Subject: Recurring, Location: apt changed, Frequency: Daily, Amount: 4	30	Daily	4
+08/04/2017 08:30:00	Subject: Lecture, Location: Room 2	60
+08/04/2017 10:30:00	Subject: Changed Lecture, Location: OLC, Frequency: Weekly, Amount: 2	30	Weekly	2
+10/08/2020 08:00:00	Subject: Walking, Location: Park	30
+10/08/2020 10:00:00	Subject: Workout, Location: Gym	60
+10/08/2020 21:00:00	Subject: Sleep time, Location: Bedroom, Frequency: Daily, Amount: 7	450	Daily	7
